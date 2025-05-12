@@ -1,1 +1,0 @@
-![Output Video](output_gaze.mp4)
